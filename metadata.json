@@ -1,0 +1,6 @@
+{
+  "name": "EQ ปรับแต่งเสียง - Audio Equalizer",
+  "description": "แอปพลิเคชันปรับแต่งเสียง (Audio Equalizer) ภาษาไทย ใช้งานง่าย พร้อมระบบ Preset, Bass Boost, Virtualizer และ Master Volume",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

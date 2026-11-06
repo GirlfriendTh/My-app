@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ปรับแต่งเสียง</string>
+    <string name="eq_title">อีควอไลเซอร์ (Equalizer)</string>
+    <string name="eq_power_on">เปิดใช้งาน EQ</string>
+    <string name="eq_power_off">ปิดการใช้งาน EQ</string>
+    <string name="master_volume">ระดับเสียงหลัก (Master Volume)</string>
+    <string name="presets_title">โหมดเสียงสำเร็จรูป (Presets)</string>
+    <string name="custom_frequency_title">ปรับแต่งย่านความถี่ (Custom EQ)</string>
+    <string name="sound_effects_title">เอฟเฟกต์เสียงพิเศษ</string>
+    <string name="bass_boost">เพิ่มเสียงเบส (Bass Boost)</string>
+    <string name="virtualizer">จำลองมิติเสียง (Virtualizer)</string>
+    <string name="reset_default">รีเซ็ตค่ามาตรฐาน</string>
+    <string name="test_sound_title">เครื่องเล่นทดสอบเสียง</string>
+    <string name="test_sound_desc">เล่นเสียงทดสอบเพื่อฟังผลการปรับแต่ง EQ ทันที</string>
+</resources>
